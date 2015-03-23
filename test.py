@@ -1,3 +1,4 @@
 #/usr/bin
 var = 3
-print var*var
+var2 = 5
+print var*var/var2
